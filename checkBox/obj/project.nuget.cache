@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JcGwjPNOXUmbtvOTDhHlqzrscs7AXXrNGyzUFlEoIycuCdIhlICf5xK7HxGU6C6i+sY/IZI5Ufxw/2qsTZIFhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\selenium12\\checkBox\\checkBox\\checkBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\selenium.support\\4.3.0\\selenium.support.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\selenium.webdriver.chromedriver\\103.0.5060.5300\\selenium.webdriver.chromedriver.103.0.5060.5300.nupkg.sha512"
+  ],
+  "logs": []
+}
